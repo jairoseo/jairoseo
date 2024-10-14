@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudio programacion de software<br>🎲 Half Life 1 pro player<br >🎵 [Shamisen BGM](https://www.youtube.com/watch?v=ee1yvqo3gOQ)</p>
+<p align="left">📚 Estudio programacion de software<br>🎲 Half Life 1 pro player<br>🏆 Cert. Ciberseguridad de Google<br>🎵 [Shamisen BGM](https://www.youtube.com/watch?v=ee1yvqo3gOQ)</p>
 
 ###
 
